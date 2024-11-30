@@ -49,3 +49,6 @@ Este projeto consiste no desenvolvimento de um sistema de gestão para uma acade
 
 - Nome: Amanda Taynara Dias Cavalcanti
 - RA: 12523227169
+
+- Nome: Kemilly Fagundes da Silva
+- RA: 12523219428
